@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='[001] constants and variables'/>
+        <page name='[002] operators and data types'/>
+        <page name='[003] working with strings'/>
+        <page name='[004] working with conditional statements'/>
+        <page name='[005] using conditions and loops'/>
+    </pages>
+</playground>
