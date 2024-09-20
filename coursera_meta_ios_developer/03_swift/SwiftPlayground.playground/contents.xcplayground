@@ -6,5 +6,7 @@
         <page name='[003] working with strings'/>
         <page name='[004] working with conditional statements'/>
         <page name='[005] using conditions and loops'/>
+        <page name='[006] options'/>
+        <page name='[007] arrays'/>
     </pages>
 </playground>
